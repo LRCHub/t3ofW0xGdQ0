@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アイのシナリオ",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2025-12-04T07:17:43.394549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイのシナリオ",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_アイのシナリオ_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイのシナリオ",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_アイのシナリオ_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイのシナリオ",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_アイのシナリオ_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイのシナリオ",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/04_アイのシナリオ_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイのシナリオ - Aino Scenario",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_アイのシナリオ_-_Aino_Scenario_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイのシナリオ",
+      "artist": "HoneyWorks feat. ＋α／あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/06_アイのシナリオ_HoneyWorks_feat._+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイのシナリオ",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/07_アイのシナリオ_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイのシナリオ TV size - Aino Scenario (TV Size)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_アイのシナリオ_TV_size_-_Aino_Scenario_(TV_Size)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイのシナリオ",
+      "artist": "Chico with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_アイのシナリオ_Chico_with_HoneyWorks.txt"
+    }
+  ]
+}
